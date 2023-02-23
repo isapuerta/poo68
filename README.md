@@ -1,2 +1,2 @@
 # poo68
-Object oriented programation
+Object Oriented Programming Repository
